@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+A repo with some of the LeetCode questions asked during interviews. 
+All of the solutions are done using dart and its libraries!
