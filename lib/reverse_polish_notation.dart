@@ -50,7 +50,7 @@ void main(List<String> args) {
         double b = numbers.last;
         numbers.removeLast();
         adjustedNumber = (b / a);
-        if (adjustedNumber >= 1) {
+        if (adjustedNumber >0) {
           adjustedNumber = adjustedNumber.floor().toDouble();
         } else {
           adjustedNumber = adjustedNumber.ceil().toDouble();
